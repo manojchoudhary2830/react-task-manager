@@ -312,11 +312,5 @@ Before submitting, confirm that `node_modules`, `build`, and `coverage` are not 
 
 ## Author details
 
-Complete these fields before final submission:
-
-- Student name: ______________________________
-- Enrollment number: _________________________
-- Institute/college: __________________________
-- Internship organization: ____________________
-- Mentor/supervisor: __________________________
-- Submission date: ____________________________
+- Student name: MANOJ KUMAR
+- Enrollment number: EMP20260610-7776
