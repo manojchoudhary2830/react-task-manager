@@ -1,0 +1,9 @@
+{
+  "short_name": "Momentum",
+  "name": "Momentum React Task Manager",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6558d3",
+  "background_color": "#f7f7fb"
+}
